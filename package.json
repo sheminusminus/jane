@@ -1,0 +1,31 @@
+{
+  "name": "jane",
+  "version": "0.0.1",
+  "description": "basic setup and utilities for a universal react app and server",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheminusminus/jane.git"
+  },
+  "keywords": [
+    "react",
+    "universal",
+    "es2015"
+  ],
+  "author": "Emily Kolar <emkolardev@gmail.com> (https://emkolar.ninja)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sheminusminus/jane/issues"
+  },
+  "homepage": "https://github.com/sheminusminus/jane#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
