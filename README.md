@@ -1,18 +1,18 @@
-# jane
+# janejs
 =======
 basic setup and utilities for a universal react app, with server and perhaps some utility functions
 
 ## installation
 
-	TODO
+`npm install janejs`
 	
 ## usage
 
-	TODO
+(TODO)
 
 ## tests
 
-	`npm test`
+`npm test`
 	
 ## contributing
 

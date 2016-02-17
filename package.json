@@ -1,5 +1,5 @@
 {
-  "name": "jane",
+  "name": "janejs",
   "version": "0.0.1",
   "description": "basic setup and utilities for a universal react app and server",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sheminusminus/jane.git"
+    "url": "git+https://github.com/sheminusminus/janejs.git"
   },
   "keywords": [
     "react",
@@ -18,9 +18,9 @@
   "author": "Emily Kolar <emkolardev@gmail.com> (https://emkolar.ninja)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sheminusminus/jane/issues"
+    "url": "https://github.com/sheminusminus/janejs/issues"
   },
-  "homepage": "https://github.com/sheminusminus/jane#readme",
+  "homepage": "https://github.com/sheminusminus/janejs#readme",
   "engines": {
     "node": ">=4.2.4"
   },
